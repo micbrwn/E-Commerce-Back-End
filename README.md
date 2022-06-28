@@ -3,20 +3,21 @@
 # Employee-Tracker
 
 # Description
+```md
 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
 
 Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
-
+```
 
    # Table of Contents
-
+```md
   * [User Story](#user-story)
   * [Acceptance Criteria](#acceptance-criteria)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Screenshots](#screenshots)
   * [Screencastify URL](#screencastify-url)
-
+```
 
 
  ## User Story
@@ -44,26 +45,22 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Installation
+```md
  * Clone repository and open in VS Code.
  * Then in integrated terminal in VS Code:
-    * Run  `npm init`
+    * Copy and paste database schema into MySQL
     * Run  `npm i`
-   
-
-
+    * Run  `npm run seed`
+```   
 
 
 ## Usage
-   You run the code in the terminal with the command line `node index.js`. You then answer the question prompts and make your selections accordingly
-
-
-## Screenshots
-
-![Created-HTML]()
-
+```md
+   You run the code in the terminal with the command line `npm start`.
+```
 
 ## Screencastify URL
 
-[Screencastify]()
+[Insomnia Demo](https://watch.screencastify.com/v/Qied9oVwOqLswrfnGfVM)
 
  
